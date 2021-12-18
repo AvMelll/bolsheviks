@@ -1,0 +1,547 @@
+<html lang="en"><head>
+    <title>Bolsheviks Union</title>
+    <style>
+        .pphunter{
+            position: relative;
+        }
+       
+        .pphimg{
+            height: 800px;
+            width: 1350px;
+        }
+        .pph1{
+            position: absolute;
+            top: 17px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .pph2{
+            position: absolute;
+            bottom: 500px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .pph3{
+            position: absolute;
+            bottom: 400px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+        .pphquotes{
+            position: absolute;
+            bottom: 200px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .pphquote1{
+            position: absolute;
+            bottom: 50px;
+            font-size: 60px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: #FF0000;
+        }
+        .mixalakys{
+            position: relative;
+        }
+        .mxlksimg{
+            height: 800px;
+            width: 1350px;
+        
+        }
+        .mxlks1{
+            position: absolute;
+            top: 17px;
+            font-size: 60px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+        .mxlks2{
+            position: absolute;
+            bottom: 300px;
+            font-size: 40px;
+
+        }
+        .addmxlks{
+            position: absolute;
+            bottom: 2px;
+            font-size: 15px;
+        }
+        .kooqie{
+            position: relative;
+        }
+        .kqimg{
+            height: 800px;
+            width: 1350px;
+        }
+        .kqtxt{
+            position: absolute;
+            top: 17px;
+            font-size: 70px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+        }
+        .kqtxt2{
+            position: absolute;
+            bottom: 400px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+        }
+        .kqtxt3{
+            position: absolute;
+            bottom: 300px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: green;
+        }
+        .ptlink{
+            position: absolute;
+            bottom: 275px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: green;
+        }
+        .kqquotes{
+            position: absolute;
+            bottom: 150px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+        }
+        .kqquote1{
+            position: absolute;
+            bottom: 100px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: red;
+        }
+        .kqquote2{
+            position: absolute;
+            bottom: 20px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: red;
+        }
+        .nacharos{
+            position: relative;
+        }
+        .nachimg{
+            height: 800px;
+            width: 1350px;
+        }
+        .nacho1{
+            position: absolute;
+            top: 17px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .nacho2{
+            position: absolute;
+            bottom: 500px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .nacho3{
+            position: absolute;
+            bottom: 400px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .looplink{
+            position: absolute;
+            bottom: 300px;
+            font-size: 45px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .nachoquotes{
+            position: absolute;
+            bottom: 150px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .nachoquote1{
+            position: absolute;
+            bottom: 100px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: #FF0000;
+        }
+        .nachoquote2{
+            position: absolute;
+            bottom: 20px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color:#FF0000
+        }
+        .members{
+            
+            position: relative;
+            
+        
+        }
+        .imagee{
+            height: 375px;
+            width: 1350px;
+        }
+        
+        .txt1{
+            position: absolute;
+            top:  1px;
+            left: 200px;
+            font-size: 75px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: 900;
+            color: white;
+        }
+        .txt2{
+            position: absolute;
+            top: 250px;
+            left: 330px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: 900;
+            color: white;
+            
+        }
+        .tzannhs{
+            position: relative;
+        }
+        .tzannhsimg{
+            height: 800px;
+            width: 1350px;
+
+        }
+        .tzannhs1{
+            position: absolute;
+            top: 15px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+        }
+        .tzannhs2{
+            position: absolute;
+            bottom: 490px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+
+        }
+        .tzannhs3{
+            position: absolute;
+            bottom: 300px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+        }
+        .tzannhs4{
+            position: absolute;
+            bottom: 200px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+        }
+        .tzannhs5{
+            position: absolute;
+            bottom: 100px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: red;
+        }
+        .tzannhs6{
+            position: absolute;
+            bottom: 20px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: red;
+        }
+        .candy{
+            position: relative;
+        }
+        .candyimg{
+            height: 800px;
+            width: 1350px;
+
+        }
+        .candy1{
+            position: absolute;
+            top: 17px;
+            font-size: 70px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+        .candy2{
+            position: absolute;
+            bottom: 500px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .candy3{
+            position: absolute;
+            bottom: 300px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .candy4{
+            position: absolute;
+            bottom: 200px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: red;
+        }
+        .candy5{
+            position: absolute;
+            bottom: 100px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: red;
+        }
+        .donate{
+            position: relative;
+        
+        }
+        .redoutro{
+            height: 400px;
+            width: 1350px;
+        }
+        .link{
+            position: absolute;
+            top:  1px;
+            left: 100px;
+            font-size: 75px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: 900;
+            color: white;
+            text-align: center;
+
+        }
+        .outro{
+            position: absolute;
+            bottom: 10px;
+            font-size: 30px;
+            color: white;
+            left: 400px;
+
+        }
+
+        .minos{
+        position: relative;
+        
+    }
+    .minosimg{
+        height: 800px;
+        width: 1350px;
+
+    }
+    .minos1{
+        position: absolute;
+            top: 5px;
+            font-size: 70px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+    }
+    .minos2{
+        position: absolute;
+            bottom: 490px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+            
+
+    }
+    .minos3{
+        position: absolute;
+            bottom: 400px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+    }
+    .minos4{
+        position: absolute;
+            bottom: 250px;
+            font-size: 50px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .minos5{
+        position: absolute;
+            bottom: 100px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+    }
+    .minos6{
+        position: absolute;
+            bottom: 20px;
+            font-size: 40px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            color: white;
+    }
+
+
+
+
+        
+    
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style type="text/css"></style></head>
+<body>
+    <img src="redlol.png" alt="red2" height="100px" width="1350px">
+    <img src="bolsheviks1.png" alt="bolshevikspic" height="650px" width="630px" style="float: right;vertical-align: top;">
+    <p style="font-size: 100px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: 700; color:#FF0000;">Bolsheviks</p>
+    <p style="font-size: 100px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: 700; color: #FF0000;">Union</p>
+    <p style="color: #FF0000; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: 700; font-size: 50px;">The Official Website</p>
+    <div class="members">
+        <img class="imagee" src="redlol.png" alt="red">
+        <h3 class="txt1"> 
+            Bolsheviks IS THE GREATEST FUCKING SERVER OF ALL TIME 
+        </h3>
+        <h3 class="txt2">
+            Here are some of our prominent members:
+        </h3>
+    </div>
+    <div class="nacharos">
+        <img class="nachimg" src="nacharosss.png" alt="nacho">
+        <h3 class="nacho1">
+            The Supreme Leader,NachoPacho
+        </h3>
+        <h3 class="nacho2">
+            Also known as Loopsgatos,kandilo,or ta vivlia tou papadiamanti,
+        </h3>
+        <h3 class="nacho3">
+            Our creator founded this very server on the belief that all being equal leads to peace
+        </h3>
+        <a class="looplink" href="https://instagram.com/loopsgatas?utm_medium=copy_link"> Our Founder also runs a ver successful Instagram page,which you can see by clicking here.</a>
+        <h3 class="nachoquotes">
+            Famous Quotes:
+        </h3>
+        <h3 class="nachoquote1">
+            "Ston poutso mou"
+        </h3>
+        <h3 class="nachoquote2">
+            "O MINOS EXEI CUM,EXEI CUM"
+        </h3>
+    </div>
+    <div class="kooqie">
+        <img class="kqimg" src="kooqie.tmp.png" alt="kq">
+        <h3 class="kqtxt">
+            RAGE Kooqie 10
+        </h3>
+        <h3 class="kqtxt2">
+            A long time friend of the Supreme Founder's,and the creator of Bolsheviks' sister server,Gamers HQ
+        </h3>
+        <h3 class="kqtxt3">
+            Also a Co-Founder of Pickle Team,a very successful social media collective
+        </h3>
+        <a class="ptlink" href="https://www.youtube.com/channel/UC3ZLqr9I_E8i4F_K8WYKMZw">You can find their YouTube channel Here</a>
+        <h3 class="kqquotes">
+            Famous quotes:
+        </h3>
+        <h3 class="kqquote1">
+            "Είμαστε στο κεντρί wtf"
+        </h3>
+        <h3 class="kqquote2">
+            "@everyone join the skatoula gang"
+        </h3>
+    </div>
+    <div class="mixalakys">
+        <img class="mxlksimg" src="mixalakys.jpg" alt="mxlks">
+        <h3 class="mxlks1">
+            Mixalakys
+        </h3>
+        <h3 class="mxlks2">
+            opa katse re mlk o mixalakys den einai sto bolsheviks pame parakato
+        </h3>
+        <h3 class="addmxlks">
+            #addmixalakystobolsheviks
+        </h3>
+    </div>
+    <div class="pphunter">
+        <img class="pphimg" src="pphunter.png" alt="pph">
+        <h3 class="pph1">
+            PP Hunter
+        </h3>
+        <h3 class="pph2">
+            Also known as Antonis,Take The Owl or TTO™,PP Hunter is the main socialist scientist of Bolsheviks Union
+        </h3>
+        <h3 class="pph3">
+            He has obtained nigh-mastery of Ghould Mode
+        </h3>
+        <h3 class="pphquotes">
+            Famous Quotes:
+        </h3>
+        <h3 class="pphquote1">
+            "Ta koritsia kanoun masturbate?"
+        </h3>
+
+    </div>
+    <div class="tzannhs">
+        <img class="tzannhsimg" src="tzannhs2.jpg" alt="tzn">
+        <h3 class="tzannhs1">
+            GiannhsTzannhs
+        </h3>
+        <h3 class="tzannhs2">
+            GiannhsTzannhs is the Comissar Of Deffense of our big beautiful server.He was named by the Bolsheviks Times as the servers most attractive man.
+        </h3>
+        <h3 class="tzannhs3">
+            All was well for him until he got hacked and all his personal information was leaked,he is now serving time for posession of child pornography,public urination and indecent exposure
+        </h3>
+        <h3 class="tzannhs4">
+            Famous Quotes:
+        </h3>
+        <h3 class="tzannhs5">
+            "Eime toso dowwwwwwwn baaaaaad"
+        </h3>
+        <h3 class="tzannhs6">
+            "Katse na sou piasw to tetoia na kaneis cum"
+        </h3>
+
+    </div>
+    <div class="candy">
+        <img class="candyimg" src="candy.png" alt="cnd">
+        <h3 class="candy1">
+            candy-_-
+        </h3>
+        <h3 class="candy2">
+            Ths aresoun ta harry potter kai ta musical  😭  😭 
+        </h3>
+        
+
+
+    </div>
+    <div class="minos">
+        <img class="minosimg" src="griffongamer_logo.png" alt="minos">
+        <h3 class="minos1">
+            GriffonGamer
+        </h3>
+        <h3 class="minos2">
+            The Spirit Of Gamothnratsasou,Grifffon has been Reinstated as a marshall
+        </h3>
+        <h3 class="minos3">
+            A ladies man,sniper god and Harvard Graduate,den einai quiet kid poia!
+        </h3>
+        <h3 class="minos4">
+            Famous Quotes:
+        </h3>
+        <h3 class="minos5">
+            "To n word eine san to malaka alla gia tous maurous,anti na les ena mauro malaka ton les Ni**a"
+        </h3>
+       
+    
+    </div>
+    <div class="donate">
+        <img class="redoutro" src="redlol.png" alt="rd">
+        <a class="link" href="https://www.autism-society.org/get-involved/donate/">You can donate to Bolsheviks Here</a>
+        <h3 class="outro">
+            Website Designed And Coded By shockwave#9548
+        </h3>
+
+
+    </div>
+    
+
+</body></html>
